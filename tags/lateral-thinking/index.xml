@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lateral thinking on @gibranerl</title>
+    <link>https://gibranerlangga.github.io/tags/lateral-thinking/</link>
+    <description>Recent content in lateral thinking on @gibranerl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 26 Nov 2016 15:59:13 -0400</lastBuildDate>
+    
+	<atom:link href="https://gibranerlangga.github.io/tags/lateral-thinking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>on achieving great things</title>
+      <link>https://gibranerlangga.github.io/blog/second/</link>
+      <pubDate>Sat, 26 Nov 2016 15:59:13 -0400</pubDate>
+      
+      <guid>https://gibranerlangga.github.io/blog/second/</guid>
+      <description>intro
+topic1 subtopic1 subtopic2 subtopic3
+topic2 subtopic1 subtopic2 subtopic3
+conclusion</description>
+    </item>
+    
+    <item>
+      <title>on achieving great things</title>
+      <link>https://gibranerlangga.github.io/blog/third/</link>
+      <pubDate>Sat, 26 Nov 2016 15:59:13 -0400</pubDate>
+      
+      <guid>https://gibranerlangga.github.io/blog/third/</guid>
+      <description>intro We often feels the moment of inspiration that suddenly burst into our head; be it a rough, innovative idea on solving traffic congestions, a more efficient way of handling the economy equilibrium point, or even
+topic1 subtopic1 subtopic2 subtopic3
+topic2 subtopic1 subtopic2 subtopic3
+conclusion</description>
+    </item>
+    
+    <item>
+      <title>on why we need more hackers</title>
+      <link>https://gibranerlangga.github.io/blog/first/</link>
+      <pubDate>Sat, 26 Nov 2016 15:59:13 -0400</pubDate>
+      
+      <guid>https://gibranerlangga.github.io/blog/first/</guid>
+      <description>We all want to reach our own definition of success in life. Be it on maintaining a good relationship with an old friend from high school, achieve a prestigious award from an institution, or simply to be able to travel the world with our loved one. And interestingly, people with roughly same goals have different time duration for each to achieve it. Some can do it in 1 year or two, while others need 5 or more years to accomplish the same life target.</description>
+    </item>
+    
+  </channel>
+</rss>
