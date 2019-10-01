@@ -6,10 +6,19 @@
     <description>Recent content in Categories on @gibranerl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 26 Nov 2016 15:59:13 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="https://gibranerlangga.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>about</title>
+      <link>https://gibranerlangga.github.io/categories/about/</link>
+      <pubDate>Mon, 30 Sep 2019 22:55:05 -0400</pubDate>
+      
+      <guid>https://gibranerlangga.github.io/categories/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>random thoughts</title>
